@@ -1,0 +1,15 @@
+{
+  "name": "boilr-tsconfig",
+  "version": "0.1.0",
+  "author": "Stefan Walther <swr.nixda@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanwalther/boilr-tsconfig.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stefanwalther/boilr-tsconfig/issues"
+  },
+  "homepage": "https://github.com/stefanwalther/boilr-tsconfig#readme",
+  "description": "A tsconfig.json template for boilr."
+}
